@@ -12,6 +12,7 @@ GoodBelly: Explanatory Causal Modeling for Marketing Budget Optimization
 - Isolated and measured long-term vs. short-term impacts by tracking real-time demonstration effects alongside engineered lagged time-windows (Demo 1–3 weeks and Demo 4–5 weeks) to evaluate sustained brand equity.
 - Designed and evaluated **interaction terms** to mathematically capture cross-functional synergy between independent variables, such as the operational relationship between localized field reps and active third-party store demonstrations.
 - Applied **statistical decision rules** ($\alpha = 0.10$) under **Null Hypothesis Significance Testing (NHST)** to confirm significance, alongside reporting narrow interval effect sizes to isolate meaningful financial returns against an operational demo cost of $157.83.
+- Developed a multi-stage modeling environment to run **baseline confirmatory regressions**, track parameter coefficient shifts across iterative exploratory models, and export formalized predictive metrics for executive C-suite review.
 
 [Stock Market Price Analysis and Prediction](https://github.com/eloweDS/stock_market_project/tree/main)
 - Created a model that predicts daily stock price movement which would help investors make more informed decisions based on whether the stock price will go up or down the next day.
