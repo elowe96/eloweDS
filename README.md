@@ -2,7 +2,7 @@
 
 ## Education 
 - ***Eastern Michigan University*** | Ypsilanti, MI |B.S. Computer Engineering Technology | September 2014 - April 2019 | GPA: 3.2/4.0
-- ***Wayne State University*** | Detroit, MI |M.S. Data Science and Business Analytics | August 2024 - present | GPA: 3.66/4.0
+- ***Wayne State University*** | Detroit, MI |M.S. Data Science and Business Analytics | August 2024 - May 2026 | GPA: 3.83/4.0
 
 
 ## Projects
